@@ -1,0 +1,5 @@
+audioread
+numpy
+noisereduce
+soundfile
+torchaudio
