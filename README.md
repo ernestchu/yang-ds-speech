@@ -1,5 +1,5 @@
-## A Speech Dataset From the Data Structure Course by Prof. Yang
-This repo implements several time-scale modification algorithms on audio signals.
+## A Speech Dataset Collected From the Data Structure Course by Prof. Yang
+This repository contains .The original audio data are downloaded from the [YouTube playlist](https://youtube.com/playlist?list=PLs81hTyfCaoXSa8NVmVy7IZVzJLpNhglk) and can be downloaded at the [release].
 
 ## Prepare environment
 ### Create virtual environment
