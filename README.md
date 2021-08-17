@@ -1,6 +1,8 @@
 ## A Speech Dataset Collected From the Data Structures Course by Prof. Yang
 This repository contains the audio data from the recordings of [CSE215, Data Structures](http://par.cse.nsysu.edu.tw/~cbyang/course/ds/ds_index.htm) lectured by Professor [C. B. Yang](http://par.cse.nsysu.edu.tw/~cbyang/), and the preprocessing scripts. The original audio data are downloaded from the [YouTube playlist](https://youtube.com/playlist?list=PLs81hTyfCaoXSa8NVmVy7IZVzJLpNhglk) and can be downloaded at the [release](https://github.com/ernestchu/yang-ds-speech/releases/tag/0.0.1).
 
+Throughout the course, Prof. Yang speaks Mandarin Chinese with Taiwanese accent. The dataset could be contaminated by cases like no speeches, noise made by classmate, or percussion sounds of moving abitrary objects.
+
 The original audio data is saved in **m4a** format. Nevertheless, we'll use **wav** during preprocessing for the performance concerns and thus a sufficient disk capacity is recommended.
 
 ## Preprocessing
