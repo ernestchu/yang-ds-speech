@@ -3,7 +3,6 @@ import glob
 import os
 import torchaudio
 
-os.makedirs('noise-reduced', exist_ok=True)
 file_list = glob.glob('noise-reduced/*.wav')
 
 for file in file_list:
